@@ -1,0 +1,14 @@
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.exe.config
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.exe
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.pdb
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.csprojResolveAssemblyReference.cache
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.exe
+C:\Users\mau_r\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.pdb
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.exe.config
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.exe
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\bin\Debug\intento_1_proyecto.pdb
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.exe
+C:\Users\mau_l\source\repos\intento_1_proyecto\intento_1_proyecto\obj\Debug\intento_1_proyecto.pdb
